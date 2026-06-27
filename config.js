@@ -1,0 +1,1 @@
+window.QUIZ_APP_CONFIG={title: "サンプル問題集",description: "",menuCsvUrl:"./data/sample-menu.csv",questionsCsvUrl:"./data/sample-questions.csv",randomizeQuestions:true,randomizeAnswers:false,storageKey:"quiz-studio-history-v1"};
